@@ -1,0 +1,8 @@
+pandas==2.2.2
+numpy==1.26.4
+requests==2.32.4
+matplotlib==3.10.5
+seaborn==0.13.2
+plotly==6.2.0
+sqlalchemy==2.0.43
+jupyter==1.1.1

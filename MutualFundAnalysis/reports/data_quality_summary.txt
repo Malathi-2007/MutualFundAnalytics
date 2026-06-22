@@ -1,0 +1,12 @@
+Data Quality Summary
+
+1. Successfully loaded fund_master and nav_history datasets.
+2. Explored unique fund houses, categories, sub-categories, and risk categories.
+3. Verified AMFI scheme codes and their relationship with NAV history data.
+4. Missing value analysis was performed.
+5. Duplicate record analysis was performed.
+6. All AMFI codes from fund_master were found in nav_history (Missing Codes = 0).
+7. No duplicate records were found in either dataset.
+8. Successfully fetched live NAV data from MFAPI for HDFC Top 100 Direct and five key mutual fund schemes.
+9. All fetched NAV data was saved in the raw data layer as CSV files.
+10. Data quality checks indicate that the datasets are clean and suitable for further analysis.
